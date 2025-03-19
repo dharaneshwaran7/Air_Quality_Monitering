@@ -1,5 +1,3 @@
-Here's a structured **README** file for your project:  
-
 ---
 
 # **Smart Air Quality Monitoring System**  
@@ -47,7 +45,7 @@ This project is an **Air Quality Monitoring System** using **Arduino** and multi
   ```
 
 ## **Demo Screenshot**  
-*(Add an image showing the real-time graphs here.)*  
+![Real-Time Graph](air_output.png) 
 
 ## **Future Improvements**  
 🔹 Add IoT integration for remote monitoring  
